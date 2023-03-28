@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "G1jndWXkjs45QZ4SuApIOmctEeAwYFBrqv4heN9hRfk6WTNdr7jBloHDie/oD8QNH45mlGBxzeipTgueD5XY5g==",
+  "success": true,
+  "projectFilePath": "/media/ross/bigboy1/projects/SheetsOfRecipients/SheetReader/SheetReader.csproj",
+  "expectedPackageFiles": [
+    "/home/ross/.nuget/packages/documentformat.openxml/2.19.0/documentformat.openxml.2.19.0.nupkg.sha512",
+    "/home/ross/.nuget/packages/system.io.packaging/4.7.0/system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
